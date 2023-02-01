@@ -1,0 +1,15 @@
+ru\avito\bot\command\SubscribedListCommand.class
+ru\avito\bot\model\AvitoItem.class
+ru\avito\bot\model\Subscribe$SubscribeBuilder.class
+ru\avito\bot\service\SubscribeTask.class
+ru\avito\bot\command\UnsubscribeCommand.class
+ru\avito\bot\Bot.class
+ru\avito\bot\model\Subscribe.class
+ru\avito\bot\command\Command.class
+ru\avito\bot\command\SearchCommand.class
+ru\avito\bot\service\SubscribeService.class
+ru\avito\bot\command\InfoCommand.class
+ru\avito\bot\client\AvitoClient.class
+ru\avito\bot\AvitoBotApp.class
+ru\avito\bot\command\SubscribeCommand.class
+ru\avito\bot\model\AvitoItem$AvitoItemBuilder.class
