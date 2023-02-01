@@ -45,6 +45,7 @@ public class Bot extends TelegramLongPollingCommandBot {
     }
 
     private String getUserName(Message msg) {
+
         User user = msg.getFrom();
         String userName = user.getUserName();
         return (userName != null) ? userName : String.format("%s %s", user.getLastName(), user.getFirstName());
